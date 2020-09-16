@@ -1,4 +1,4 @@
-# Morning-Exercise-Whiteboarding
+# Whiteboarding Exercise 1
 
 
 
